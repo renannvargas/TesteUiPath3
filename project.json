@@ -1,5 +1,5 @@
 {
-  "name": "GitTeste1",
+  "name": "Teste_29_09_2023",
   "description": "Blank Process",
   "main": "Main.xaml",
   "dependencies": {
@@ -49,7 +49,7 @@
   "entryPoints": [
     {
       "filePath": "Main.xaml",
-      "uniqueId": "7f7db77d-6772-43ce-b5ef-36eb3c2e5daf",
+      "uniqueId": "0d2e135b-8c11-4a5c-9eab-2c0ee6991f57",
       "input": [],
       "output": []
     }
